@@ -1,0 +1,5 @@
+ds18b20:
+  build: .
+  environment:
+    - mqtt_broker=mqtt://127.0.0.1
+    - mqtt_topic=temperatur

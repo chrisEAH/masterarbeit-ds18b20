@@ -1,0 +1,13 @@
+{
+    "Sensor":"Temperatur",
+    "Wert":66.762,
+    "Einheit":"Grad Celsius",
+    "Zeitstempel":"12.2.2019-21:13:34,790",
+    "Standort":
+        ["Halle_A",
+        "Fertigungslinie_B",
+        "Lasercutter_C"]
+}
+
+
+
